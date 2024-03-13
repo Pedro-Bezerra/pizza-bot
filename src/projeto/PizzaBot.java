@@ -95,9 +95,5 @@ public class PizzaBot {
   public void aceitar() {
     System.out.println("Cadeia aceita");;
   }
-
-  public void setEntrada(String entrada) {
-    this.entrada = entrada;
-  }
-
+  
 }
