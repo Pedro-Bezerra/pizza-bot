@@ -93,7 +93,7 @@ public class PizzaBot {
   }
 
   public void aceitar() {
-    System.out.println("Cadeia aceita");;
+    System.out.println("Cadeia aceita");
   }
   
 }
